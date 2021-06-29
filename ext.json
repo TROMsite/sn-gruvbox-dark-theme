@@ -3,22 +3,22 @@ metatype: json
 ---
 
   {
-    "identifier": "io.github.christianhans.sn-gruvbox-dark-theme",
-    "name": "Gruvbox Dark Theme",
+    "identifier": "trom",
+    "name": "TROM Dark Theme",
     "content_type": "SN|Theme",
     "area": "themes",
-    "description": "Gruvbox Dark Theme for Standard Notes",
+    "description": "TROM Dark Theme for Standard Notes",
     "version": "v0.0.16",
-    "url": "https://cdn.jsdelivr.net/gh/christianhans/sn-gruvbox-dark-theme@master/dist/dist.css",
-    "download_url": "https://github.com/christianhans/sn-gruvbox-dark-theme/archive/0.0.16.zip",
-    "marketing_url": "https://github.com/christianhans/sn-gruvbox-dark-theme",
-    "latest_url": "https://listed.to/CkWVdPhzvs",
+    "url": "https://www.drive.tromsite.com/s/kRYJWsADnq3s3aY/download",
+    "download_url": "https://www.drive.tromsite.com/s/ytoQYMJz85wctKe/download",
+    "marketing_url": "https://www.drive.tromsite.com/s/kRYJWsADnq3s3aY",
+    "latest_url": "https://www.drive.tromsite.com/s/kRYJWsADnq3s3aY",
     "thumbnail_url": "https://raw.githubusercontent.com/christianhans/sn-gruvbox-dark-theme/master/preview.png",
     "dock_icon": {
       "type": "circle",
-      "background_color": "#D79921",
+      "background_color": "#bc5151",
       "foreground_color": "#076678",
-      "border_color": "#D79921"
+      "border_color": "#bc5151"
     },
     "statusBar": "dark-content"
   }
